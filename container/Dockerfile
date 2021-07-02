@@ -67,6 +67,7 @@ RUN sudo pip3 install --upgrade pip ; \
     sudo pip3 install reportlab ; \
     sudo pip3 install python-magic ; \
     sudo pip3 install pyzmq ; \
+    sudo pip3 install plyara ; \
     sudo pip3 install redis
 
 
